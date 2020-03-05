@@ -4,7 +4,7 @@
 
 ## How to clone
 
-Use [git](https://github.com/lpbborges/calculator-reactjs) clone to clone the calculator.
+Use [git](https://github.com/lpbborges/calculator-reactjs) to clone the calculator.
 
 ```bash
 git clone https://github.com/lpbborges/calculator-reactjs.git
